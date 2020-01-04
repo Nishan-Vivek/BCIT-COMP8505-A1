@@ -1,4 +1,4 @@
-# BCIT COMP8505 Assignment 1 - Cover Channel
+# BCIT COMP8505 Assignment 1 - Covert Channel
 
 ## Objective
 
